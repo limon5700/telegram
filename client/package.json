@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    
     "buildCommand": "npm run build"
   },
   "browserslist": {
